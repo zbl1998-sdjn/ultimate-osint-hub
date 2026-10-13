@@ -669,6 +669,7 @@
 | **Bloomberg** | Company financials | [bloomberg.com](https://www.bloomberg.com/) |
 | **SEC EDGAR** | US company filings | [sec.gov/edgar](https://www.sec.gov/edgar/searchedgar/companysearch) |
 | **Companies House** | UK company registry | [find-and-update.company-information.service.gov.uk](https://find-and-update.company-information.service.gov.uk/) |
+| **Currawong China USCI Checker** | Checks 18-character China USCI format/check digit; does not verify companies, credit or payments. | [currawongweb.com](https://currawongweb.com/verify/china-usci-checker/) |
 
 ### Financial Intelligence
 
